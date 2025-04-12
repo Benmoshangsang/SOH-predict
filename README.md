@@ -1,1 +1,2 @@
 # SOH-predict
+The original dataset is from NASA, and four new datasets were generated through four different data augmentation methods. The new datasets were created using data augmentation code. The experimental results include comparisons of the main function, hyperparameter function, loss function, and ablation study results.The code contains various functional functions, but codes such as the main function comparison experiment need to be saved outside the folder as supporting code support. When doing experiments, the supporting code can be placed in the folder.
